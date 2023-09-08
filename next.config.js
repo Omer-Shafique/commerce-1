@@ -5,7 +5,7 @@ module.exports = {
     ignoreDuringBuilds: true
   },
   experimental: {
-    serverActions: true
+    serverActions: false
   },
   images: {
     formats: ['image/avif', 'image/webp'],
